@@ -12,7 +12,7 @@ Our vision for the future stands on two key pillars:
 1. **Building Smarter Agents**: We're developing AI agents that don’t just analyze the crypto world - they make sense of it and provide clear and actionable insights
 2. **Building a Stronger Community**: Beyond workflows, agents & tools - we're creating a space where every user has a seat at the table, helping to shape the Neurobro ecosystem into the future of decentralized intelligence
 
-<figure><img src="../.gitbook/assets/roadmap.png" alt=""><figcaption><p>Neurobro Q1-Q2 Roadmap</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Dark Green Modular Business Roadmap Brainstorm (1) (1).png" alt=""><figcaption><p>Neurobro Q1-Q2 Roadmap</p></figcaption></figure>
 
 The road ahead isn't just about technology or people - it's about the fusion of both. Below, we break down the bold moves we're planning to make to bring this vision to life:
 
