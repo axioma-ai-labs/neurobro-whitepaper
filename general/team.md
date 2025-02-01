@@ -1,6 +1,6 @@
 ---
-description: Where Visionaries Meet Builders...
 icon: users-medical
+description: Where Visionaries Meet Builders...
 ---
 
 # Team
@@ -29,3 +29,12 @@ Co-founder of Axioma AI, specializing in tailored AI solutions. Full-stack devel
 
 tg: @grom\_dimon
 
+***
+
+### 🔸 KYC & Audit
+
+The entire Neurobro Team has undergone a KYC process with one of the leading blockchain audit firms in the world - [SolidProof](https://solidproof.io/).
+
+All the information can be found & verified on the [SolidProof TrustNet](https://app.solidproof.io/projects/neurobro):
+
+{% embed url="https://app.solidproof.io/projects/neurobro" fullWidth="false" %}
