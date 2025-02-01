@@ -5,7 +5,7 @@ description: Where Visionaries Meet Builders...
 
 # Team
 
-### 🔸 Core Contributors
+🔸 Core Contributors
 
 [Val](https://www.linkedin.com/in/val-y-57b0781b2) | COO | [Crypto Hub](https://x.com/CryptoHub210)
 
@@ -32,6 +32,8 @@ tg: @grom\_dimon
 ***
 
 ### 🔸 KYC & Audit
+
+<figure><img src="../.gitbook/assets/Neurobro Growth (4).png" alt=""><figcaption><p>Successful KYC Verification &#x26; TrustNet Score</p></figcaption></figure>
 
 The entire Neurobro Team has undergone a KYC process with one of the leading blockchain audit firms in the world - [SolidProof](https://solidproof.io/).
 
