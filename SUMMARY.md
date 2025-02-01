@@ -15,6 +15,7 @@
 * [Socials](general/socials.md)
 * [Team](general/team.md)
 * [Milestones](general/milestones.md)
+* [AI Agent Solutions](general/ai-agent-solutions.md)
 
 ## Technical
 
