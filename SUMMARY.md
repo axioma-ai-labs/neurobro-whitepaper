@@ -14,6 +14,7 @@
 * [Growth Strategy](general/growth-strategy.md)
 * [Socials](general/socials.md)
 * [Team](general/team.md)
+* [Milestones](general/milestones.md)
 
 ## Technical
 
@@ -23,3 +24,4 @@
   * [Overview](technical/nevron/overview.md)
   * [Roadmap](technical/nevron/roadmap.md)
   * [Technical documentation](https://axioma-ai-labs.github.io/nevron/)
+* [Terminal](technical/terminal.md)
