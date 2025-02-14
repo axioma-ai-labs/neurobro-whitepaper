@@ -1,6 +1,6 @@
 ---
-description: All Agents share something in common
 icon: car-battery
+description: All Agents share something in common
 ---
 
 # Core Technologies
@@ -29,8 +29,8 @@ All embeddings are created using the SOTA [text-embedding-3-large](https://opena
 
 Neurobro Ecosystem integrates with both proprietary and public APIs.
 
-* \~95% of the value visible to the public comes from proprietary APIs.
-* \~5% comes from publicly available APIs (e.g., [Coingecko](https://www.coingecko.com/en/api), [DexScreener](https://docs.dexscreener.com/api/reference), [Base BlockScout](https://docs.blockscout.com/devs/apis)).
+* \~90% of the value visible to the public comes from proprietary APIs.
+* \~10% comes from publicly available APIs (e.g., [Coingecko](https://www.coingecko.com/en/api), [DexScreener](https://docs.dexscreener.com/api/reference), [Base BlockScout](https://docs.blockscout.com/devs/apis)).
 
 The **Neurobro Core Development Team** is dedicated to optimizing API performance and speed, ensuring a reliable and seamless experience both for users & our agents.
 
@@ -42,9 +42,9 @@ Large Language Models form the backbone of the Neurobro AI ecosystem, powering A
 
 **🔸 Most used LLMs:**
 
-* [**Sonnet Series**](https://www.anthropic.com/api) **by Claude**: Used for summaries and content generation.
+* [R1 & V3](https://api-docs.deepseek.com/) **by DeepSeek**: Used for reasoning tasks.
 * [**Llama 3.1 (405B)**](https://ai.meta.com/blog/meta-llama-3-1/) **by Meta**: Used for large-scale analysis and replies.
-* [**GPT-4o**](https://openai.com/index/hello-gpt-4o/) **&** [**o1 Series**](https://openai.com/o1/) **by OpenAI**: Used for tasks like formatting and intent recognition.
+* [**GPT-4o**](https://openai.com/index/hello-gpt-4o/) **&** [**o3 Series**](https://openai.com/o1/) **by OpenAI**: Used for tasks like formatting and intent recognition.
 * **Custom Fine-Tuned Models**: Open-source models fine-tuned for specialized tasks, focusing on e.g., data cleansing and Neurobro personality alignment.
 
 ***
@@ -61,7 +61,6 @@ Each agent’s workflow utilizes specific tools. A tool is defined as an externa
 
 * **Neurobro Telegram Assistant**: Answers questions about real-time $BRO financial data using DexScreener.
 * **Neurobro KOL on X**: Replies to tweets mentioning "@0xNeurobro," scrapes the latest news from Binance Blog
-* **Launchbro**: Performs augmented intent recognition based on user queries with Perplexity and OpenAI.
 
 **🔸 General tooling representation**
 

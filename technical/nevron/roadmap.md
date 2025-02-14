@@ -1,6 +1,6 @@
 ---
-description: “Day by day, what you do is who you become” - Heraclitus
 icon: road
+description: “Day by day, what you do is who you become” - Heraclitus
 ---
 
 # Roadmap
@@ -22,6 +22,8 @@ icon: road
 
 **Estimate**: 4 weeks
 
+**Status**: done
+
 * **Tool Integrations**:
   * Expand support for communication and productivity platforms, including Discord, Slack, WhatsApp, Spotify, Shopify, YouTube, Google Drive, and Lens.
 * **LLM Providers**:
@@ -31,9 +33,11 @@ icon: road
 
 ***
 
-### **🔸 Milestone 2: Planning Module Migration (Phase 1)**
+### **🔸 Milestone 2: Planning Module Migration**
 
 **Estimate**: 2 weeks
+
+**Status**: done
 
 * **Planning Module Upgrade**:
   * Transition from RL-based planning to advanced decision-making algorithms to enable greater flexibility and autonomy.
@@ -46,9 +50,11 @@ icon: road
 
 ***
 
-### **🔸 Milestone 3: Planning Module Migration (Phase 2)**
+### **🔸 Milestone 3: Planning Module Migration**
 
 **Estimate**: 3 weeks
+
+**Status**: in progress
 
 * **Advanced Decision-Making Framework**:
   * Empower agents to self-organize tasks and autonomously select tools.
@@ -62,6 +68,8 @@ icon: road
 ### **🔸 Milestone 4: Security & Nevron Portal**
 
 **Estimate**: 3 weeks
+
+**Statues**: backlog
 
 * **Nevron Portal Development**:
   * Develop a web-based and local GUI for agent configuration and deployment.
@@ -77,6 +85,8 @@ icon: road
 ### **🔸 Milestone 5: On-Chain Analysis Integration**
 
 **Estimate**: 4 weeks
+
+**Status**: backlog
 
 * **On-Chain Integrations**:
   * Add base-level support for querying data from blockchain platforms like Base, Solana, and others.

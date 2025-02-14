@@ -1,6 +1,6 @@
 ---
-description: Redefining the Future of Crypto Research & Insights
 icon: bullseye-arrow
+description: Redefining the Future of Crypto Research & Insights
 ---
 
 # Roadmap
@@ -24,7 +24,7 @@ Our innovation roadmap pushes the boundaries of AI and crypto integration - deli
 
 **📍 Terminal**
 
-A dedicated terminal offering crypto analytics for $BRO holders - empowering them with actionable real-time, on-chain crypto data insights, providing detailed, unbiased technical analyses of projects in seconds.
+A dedicated [terminal](https://terminal.neurobro.ai/) offering crypto analytics for $BRO holders - empowering them with actionable real-time, on-chain crypto data insights, market sentiment, alpha insights, providing detailed, unbiased technical analyses of projects in seconds.
 
 **📍 Nevron**
 

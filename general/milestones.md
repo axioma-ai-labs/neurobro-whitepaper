@@ -1,11 +1,29 @@
 ---
-description: Overview of most notable Neurobro team achievements in a timeline manner
 icon: star
+description: Overview of most notable Neurobro team achievements in a timeline manner
 ---
 
 # Milestones
 
 {% stepper %}
+{% step %}
+### Neurobro Terminal
+
+Launch of [Neurobro Terminal](https://terminal.neurobro.ai)
+{% endstep %}
+
+{% step %}
+### Nevron v0.2
+
+New [nevron](https://github.com/axioma-ai-labs/nevron) version with new agent learning approach.
+{% endstep %}
+
+{% step %}
+### Kaizen Intern
+
+Launch of [Kaizen Intern](https://x.com/_kaizentrading) - the AI Agent for Kaizen group.
+{% endstep %}
+
 {% step %}
 ### Music Leaderboard
 

@@ -1,11 +1,11 @@
 ---
+icon: sitemap
 description: >-
   High-level technical overview of the Neurobro Ecosystem, components &
   integrations
-icon: sitemap
 ---
 
-# Neurobro Ecosystem of Agents
+# Agents Base
 
 ***
 
@@ -18,7 +18,7 @@ Behind each Agent, there can be multiple “**Nevrons**”—smaller AI agents, 
 These Nevrons serve as the building blocks for more complex Agents (e.g., the Twitter KOL). This architecture allows specialized functions to be performed efficiently while maintaining modularity and scalability.
 
 **Nevron**, the framework for building these “Core Agents,” is open-sourced and available on [github](https://github.com/axioma-ai-labs/nevron).\
-For more details about Nevron, visit the [nevron page](nevron/overview.md).
+For more details about Nevron, visit the [nevron page](broken-reference).
 
 ### **🔸 Agents vs. Nevrons**
 
