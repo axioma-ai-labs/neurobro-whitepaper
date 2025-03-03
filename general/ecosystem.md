@@ -73,6 +73,8 @@ The Telegram Assistant is built for fast and efficient community interactions. I
 
 In addition to handling inquiries, the Assistant offers technical analysis capabilities. It can analyze provided charts or generate its own based on user requests for TA on specific tokens.
 
+The Neurobro Telegram Assistant also features a [mini-app](https://t.me/neuro_bro_bot) that enables voice-based communication. Currently in beta, this feature has limitations in speak time and the Agent’s intelligence.
+
 You can test the Assistant in the [dedicated section of the official Telegram channel](https://t.me/Neurobro_Official/60761).
 
 #### 2. Website Assistant
@@ -106,10 +108,4 @@ The [Neurobro Merch Store](https://store.neurobro.ai/) serves two purposes. It i
 ### 🔸 Music Portal
 
 The [Music Portal](https://music.neurobro.ai/) lets anyone create music. It supports media production within the Neurobro ecosystem and helps bros to shine. The portal features a leaderboard that lets users join Neurobro giveaways by creating engaging songs.
-
-***
-
-### 🔸 Voice Communications with Neurobro
-
-This feature offers a chance to speak directly with Neurobro. Currently, it is available during AMA sessions. Full integration of voice communication will be available soon.
 

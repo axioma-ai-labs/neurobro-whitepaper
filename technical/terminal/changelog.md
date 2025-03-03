@@ -1,6 +1,6 @@
 ---
-description: Latest integrated updates & enhancements
 icon: sparkles
+description: Latest integrated updates & enhancements
 ---
 
 # Changelog
@@ -13,7 +13,25 @@ Enjoy exploring the changes!
 
 ***
 
-### **🔸** 12.02.2025 - [Official Terminal Launch](https://terminal.neurobro.ai/)
+### **🔸 0**2.03.2025 - [On-Chain Insights & TA Boost](https://x.com/0xNeurobro/status/1889799793825755332) | v0.1
+
+v0.1 upgrade enhances existing functionalities and introduces new features:
+
+**New Features:**
+
+* **Twitter Integration:** Gain near real-time access to Twitter data, including deep searches within Crypto Twitter. This covers KOLs, influencers, trending CT topics, news, post summaries & sentiment analysis for specific topics.
+* **Crypto Influencer Finder:** Discover top influencers discussing specific projects or coins (aka who’s shilling which tokens).
+* **Official Project Information:** Access more structured project overviews, including verified links, background details, and additional insights.
+* **Enhanced Contextualization:** Neurobro now provides a deeper understanding of project fundamentals, ensuring more accurate assessments & fundamental analysis
+* **Pattern Recognition:** The first step towards Neurobro’s trading agent! Initial rollout includes automated 40+ pattern detection on historical data for improved TA.
+
+**Updates & Improvements:**
+
+* **Technical Analysis Expansion:** Now includes multiple timeframes and more advanced indicators.
+* **Improved Project Research:** Enhanced investigation of official sources like GitBooks, websites, and other key references.
+* **Smarter Trending Coin Detection:** Now factors in both market sentiment and on-chain activity to identify emerging trends more effectively.
+
+### **🔸** 12.02.2025 - [Official Terminal Launch](https://terminal.neurobro.ai/) | v0.0
 
 The initial Release of the Terminal covers the following functionality:
 

@@ -6,15 +6,16 @@
 
 * [Vision & Belief](general/vision-and-belief.md)
 * [Neurobro Ecosystem](general/ecosystem.md)
-* [Roadmap](general/roadmap.md)
 * [Foundation](general/foundation.md)
 * [Tokenomics](general/tokonomics.md)
 * [Governance](general/governance.md)
 * [Growth Strategy](general/growth-strategy.md)
-* [Socials](general/socials.md)
-* [Team](general/team.md)
+* [Roadmap](general/roadmap.md)
 * [Milestones](general/milestones.md)
-* [AI Agent Solutions](general/ai-agent-solutions.md)
+
+***
+
+* [AI Agent Solutions](ai-agent-solutions.md)
 
 ## Technical
 
@@ -28,3 +29,8 @@
   * [Technical Architecture](technical/terminal/technical-architecture.md)
   * [Roadmap](technical/terminal/roadmap.md)
   * [Changelog](technical/terminal/changelog.md)
+
+## Communication
+
+* [Team](communication/team.md)
+* [Socials](communication/socials.md)

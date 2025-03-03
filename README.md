@@ -20,7 +20,7 @@ layout:
 
 # Welcome to Neurobro Whitepaper
 
-While we focus on developing AI agents and bringing these opportunities to our community, we present this **Whitepaper**. It covers the most important information on key topics.
+At **Neurobro** we focus on developing AI agents to drive the mass adoption of autonomous artificial intelligence. This **Whitepaper** provides essential details on the Neurobro Foundation's key areas: our core, products, and future plans.
 
 ### Jump right in
 

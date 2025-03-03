@@ -1,6 +1,6 @@
 ---
-description: Few word about our tokonomics.
 icon: globe-pointer
+description: Few word about our tokonomics.
 ---
 
 # Tokenomics
@@ -39,8 +39,6 @@ By putting these choices in the hands of token holders - Neurobro ensures a trul
 
 The Dev Wallet is essential for funding the ongoing development and ecosystem expansion of Neurobro. The allocation of this wallet will be entirely guided by the community through a DAO model - ensuring maximum transparency.&#x20;
 
-A proposed strategy involves **gradual weekly token burns** of **1%** of the wallet’s balance - creating deflationary pressure and supporting price stability. The community will collectively decide on the specifics or alternative uses for the wallet, such as ecosystem development or strategic investments.
-
 ***
 
 ### 🔸 Team Allocations
@@ -52,7 +50,7 @@ A proposed strategy involves **gradual weekly token burns** of **1%** of the wal
 
 These wallets are dedicated to the two core teams behind **Neurobro.**
 
-To maintain trust and alignment with the community - these allocations are structured with a **1-month cliff** post-launch, followed by a **12-month linear vesting schedule**. This ensures that the team remains committed to the project’s long-term success and delivers value to token holders without sudden sell-offs.
+To maintain trust and alignment with the community - these allocations are structured with a **1-month cliff** post-launch, followed by a **12-month linear vesting schedule** through the [TeamFinance](https://www.team.finance/view-coin/0xc796E499CC8f599A2a8280825d8BdA92F7a895e0?name=Neurobro%20by%20Virtuals\&symbol=BRO\&chainid=0x2105). This ensures that the team remains committed to the project’s long-term success and delivers value to token holders without sudden sell-offs.
 
 ***
 
@@ -68,7 +66,7 @@ As part of Neurobro’s comprehensive tokenomics strategy - up to **80% of on-ch
 
 This approach ensures that the success of the Neurobro ecosystem directly benefits token holders while supporting **deflationary** tokenomics over time.&#x20;
 
-Check out our wallet below 👇
+Check out the dedicated revenue wallet below 👇
 
 **Address**: 0xE74AC5f52a27eEff2816942C88bCE03FF7781339
 
