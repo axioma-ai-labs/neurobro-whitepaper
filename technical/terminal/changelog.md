@@ -13,7 +13,7 @@ Enjoy exploring the changes!
 
 ***
 
-### **🔸 16**.03.2025 - [On-Chain Insights & TA Boost](https://x.com/0xNeurobro/status/1889799793825755332) | v0.2
+### **🔸 16**.03.2025 - [Media Uploads & Chat Sharing](https://x.com/0xneurobro/status/1901370199946805740?s=46\&t=Z3YWZLppAdHN1NOD-XWbwg) | v0.2
 
 v0.2 upgrade enhances existing functionalities and introduces new features:
 

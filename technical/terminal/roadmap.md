@@ -23,8 +23,6 @@ Below you can find our roadmap of all the available features
 
 **Estimate**: End of February 2025
 
-***
-
 ### 📍 v 0.2 - Media Uploads & Chat Sharing
 
 * Allow media uploads (images and documents)
