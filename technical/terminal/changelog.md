@@ -1,6 +1,6 @@
 ---
-icon: sparkles
 description: Latest integrated updates & enhancements
+icon: sparkles
 ---
 
 # Changelog
@@ -10,6 +10,24 @@ This document highlights the latest updates, improvements, and bug fixes made to
 We strive to keep you informed about our ongoing efforts to optimize performance and enhance your experience with the Terminal.&#x20;
 
 Enjoy exploring the changes!
+
+***
+
+### **🔸 16**.03.2025 - [On-Chain Insights & TA Boost](https://x.com/0xNeurobro/status/1889799793825755332) | v0.2
+
+v0.2 upgrade enhances existing functionalities and introduces new features:
+
+**New Features:**
+
+* **Media Upload:** Upload images in any format and get them analyzed in seconds
+* **Chat Folders:** Organize your chats in the terminal into folders to keep track of conversations easily - no more endless scrolling to find that one chart!
+* **Nevron inter-communication**: Communication between different Nevrons is now significantly more efficient and fluid, leading to more accurate responses
+* **Augmented Social Nevrons**: Major improvements in writing quality and CT understanding for sentiment analysis and market screening Nevrons
+
+**Updates & Improvements:**
+
+* **Performance Improvement:** The terminal is now faster at selecting the most relevant Nevrons to answer your queries
+* **Improved alpha detection**: Provides a more detailed and comprehensive overview of alpha signals and the latest news
 
 ***
 
@@ -30,6 +48,8 @@ v0.1 upgrade enhances existing functionalities and introduces new features:
 * **Technical Analysis Expansion:** Now includes multiple timeframes and more advanced indicators.
 * **Improved Project Research:** Enhanced investigation of official sources like GitBooks, websites, and other key references.
 * **Smarter Trending Coin Detection:** Now factors in both market sentiment and on-chain activity to identify emerging trends more effectively.
+
+***
 
 ### **🔸** 12.02.2025 - [Official Terminal Launch](https://terminal.neurobro.ai/) | v0.0
 

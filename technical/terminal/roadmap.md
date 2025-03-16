@@ -1,6 +1,6 @@
 ---
-icon: swap
 description: Expected features & functionalities
+icon: swap
 ---
 
 # Roadmap
@@ -32,12 +32,16 @@ Below you can find our roadmap of all the available features
 
 **Estimate**: Mid March 2025
 
+***
+
 ### 📍 v 0.3 - Chat Sharing & Rug Detection
 
 * Add chat share functionality
 * Add rug detection on user request
 
 **Estimate**: End of March 2025
+
+***
 
 ### 📍 v 0.4 - Tiers & Signals
 
